@@ -23,10 +23,10 @@ Pod::Spec.new do |s|
   s.author             = { "Support" => "support@gizwits.com" }
   s.platform     = :ios, "6.0"
 
-  s.source       = { :http => "http://site.gizwits.com/developer/sdk/download?plat=iOS" }
+  s.source       = { :http => "http://site.gizwits.com/generated/sdk/XPGWifiSDK-iOS-14.10.21.zip" }
 
   s.library = 'c++'
-  s.frameworks = "SystemConfiguration", "AdSupport"
+  s.frameworks = "SystemConfiguration"
 
   s.requires_arc = true
 
