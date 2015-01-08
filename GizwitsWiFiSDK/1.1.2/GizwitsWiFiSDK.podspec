@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "GizwitsWiFiSDK"
-  s.version      = "1.1.2_15010723"
+  s.version      = "1.1.2"
   s.summary      = "Gizwits WiFi SDK"
 
   s.description  = <<-DESC
